@@ -1,0 +1,68 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Categories/=Imported_002016_002E03_002E2023/@EntryIndexedValue">Imported 16.03.2023</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Description/@EntryValue">Leetcode xUnit  test class</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/Type/@EntryValue">InCSharpTypeMember</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Shortcut/@EntryValue">lxc</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Text/@EntryValue">public class Tests&#xD;
+{&#xD;
+    private readonly Solution _sut = new();&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Categories/=Imported_002016_002E03_002E2023/@EntryIndexedValue">Imported 16.03.2023</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Description/@EntryValue">Leetcode xUnit [Theory] test method</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=Expected/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=Expected/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=ExpectedType/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=ExpectedType/Order/@EntryValue">4</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=Input/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=Input/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=InputType/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=InputType/Order/@EntryValue">3</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=SutMethodName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=SutMethodName/InitialRange/@EntryValue">1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=SutMethodName/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/Type/@EntryValue">InCSharpTypeMember</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Shortcut/@EntryValue">lxt</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Text/@EntryValue">[Xunit.Theory]&#xD;
+[Xunit.InlineData($Input$, $Expected$)]&#xD;
+public void $SutMethodName$_Default_OK($InputType$ input, $ExpectedType$ expected)&#xD;
+{&#xD;
+    var actual = _sut.$SutMethodName$(input);&#xD;
+    Assert.Equal(expected, actual);&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Categories/=Imported_002016_002E03_002E2023/@EntryIndexedValue">Imported 16.03.2023</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Description/@EntryValue">Leetcode xUnit [Fact] test method</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Field/=Expected/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Field/=Expected/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Field/=Input/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Field/=Input/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Field/=SutMethodName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Field/=SutMethodName/InitialRange/@EntryValue">1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Field/=SutMethodName/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/Type/@EntryValue">InCSharpTypeMember</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Shortcut/@EntryValue">lxf</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Text/@EntryValue">[Xunit.FactAttribute]&#xD;
+public void $SutMethodName$_Default_OK()&#xD;
+{&#xD;
+	var input = $Input$;&#xD;
+    var expected = $Expected$;&#xD;
+    var actual = _sut.$SutMethodName$(input);&#xD;
+    Assert.Equal(expected, actual);&#xD;
+}</s:String></wpf:ResourceDictionary>
