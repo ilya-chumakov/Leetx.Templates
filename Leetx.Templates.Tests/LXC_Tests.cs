@@ -1,3 +1,6 @@
-namespace Leetcode.Templates.Tests;
+namespace Leetx.Templates.Tests;
 
-lxc 
+public class Tests
+{
+    private readonly Solution _sut = new();
+}

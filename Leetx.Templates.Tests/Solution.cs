@@ -1,6 +1,6 @@
 namespace Leetx.Templates.Tests;
 
-public class LXF_Tests
+public class Solution
 {
-
+    
 }
