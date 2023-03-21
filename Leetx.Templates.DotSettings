@@ -1,6 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Categories/=Leetcode/@EntryIndexedValue">Leetcode</s:String>
 		<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Categories/=Leetcode/@EntryIndexedValue">Leetcode</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Description/@EntryValue">Leetcode xUnit binary tree tests</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Field/=DefaultElements/@KeyIndexDefined">True</s:Boolean>
@@ -91,6 +92,7 @@ public void $SutMethodName$_RightSubtree_OK(int target, bool expected)&#xD;
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 		<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Categories/=Leetcode/@EntryIndexedValue">Leetcode</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Categories/=Leetcode/@EntryIndexedValue">Leetcode</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Description/@EntryValue">Leetcode xUnit [Theory] test method</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=Expected/@KeyIndexDefined">True</s:Boolean>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=Expected/Order/@EntryValue">2</s:Int64>
@@ -119,6 +121,7 @@ public void $SutMethodName$_Default_OK($InputType$ input, $ExpectedType$ expecte
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 		<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2144C82DF6BD2943904C6E6BC635B2A9/Categories/=Leetcode/@EntryIndexedValue">Leetcode</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Categories/=Leetcode/@EntryIndexedValue">Leetcode</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Description/@EntryValue">Leetcode xUnit [Fact] test method</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Field/=Expected/@KeyIndexDefined">True</s:Boolean>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Field/=Expected/Order/@EntryValue">2</s:Int64>
@@ -143,6 +146,7 @@ public void $SutMethodName$_Default_OK()&#xD;
 }</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/Categories/=Leetcode/@EntryIndexedValue">Leetcode</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/Description/@EntryValue">Leetcode xUnit binary tree tests</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/Field/=ExpectedElements/@KeyIndexDefined">True</s:Boolean>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/Field/=ExpectedElements/Order/@EntryValue">2</s:Int64>
