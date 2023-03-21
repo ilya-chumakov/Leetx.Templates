@@ -21,4 +21,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="Leetx.Tools">
+      <HintPath>..\..\Leetx.Tools\Leetx.Tools\bin\Debug\net6.0\Leetx.Tools.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
