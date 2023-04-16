@@ -1,9 +1,13 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0A74958E474BB54FB6F3838D7544DBF5/Field/=Arrange/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0A74958E474BB54FB6F3838D7544DBF5/Field/=Arrange/Order/@EntryValue">3</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Field/=Arrange/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Field/=Arrange/Order/@EntryValue">3</s:Int64>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Shortcut/@EntryValue">lxbt</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Description/@EntryValue">Leetcode xUnit binary tree tests</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Text/@EntryValue">[Xunit.Fact]&#xD;
-public void $SutMethodName$_Default_OK()&#xD;
+public void $SutMethodName$_$Arrange$_OK()&#xD;
 {&#xD;
     var input = Leetx.Tools.BinaryTrees.TreeBuilder.CreateBinaryTree(new int?[] { $DefaultElements$ });&#xD;
     var expected = $DefaultExpected$;&#xD;
@@ -63,11 +67,17 @@ public void $SutMethodName$_RightSubtree_OK(int target, bool expected)&#xD;
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Field/=DefaultElements/Order/@EntryValue">1</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Field/=DefaultExpected/@KeyIndexDefined">True</s:Boolean>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B38646D0BA3944B9C1B8D18102F88CE/Field/=DefaultExpected/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=Arrange/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Field/=Arrange/Order/@EntryValue">5</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Field/=Arrange/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Field/=Arrange/Order/@EntryValue">3</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/Field/=Arrange/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/Field/=Arrange/Order/@EntryValue">3</s:Int64>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/Shortcut/@EntryValue">lxbtt</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/Description/@EntryValue">Leetcode xUnit binary tree tests</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A26EE78826123B4EA192E1338762CBF8/Text/@EntryValue">[Xunit.Fact]&#xD;
-public void $SutMethodName$_Default_OK()&#xD;
+public void $SutMethodName$_$Arrange$_OK()&#xD;
 {&#xD;
     var input = Leetx.Tools.TreeBuilder.CreateBinaryTree(new int?[] { $InputElements$ });&#xD;
     var expected = Leetx.Tools.TreeBuilder.CreateBinaryTree(new int?[] { $ExpectedElements$});&#xD;
@@ -126,7 +136,7 @@ public void $SutMethodName$_Single_OK(int e1,  int e2)&#xD;
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Shortcut/@EntryValue">lxf</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Description/@EntryValue">Leetcode xUnit [Fact] test method</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=524187C89E9A8E488CB50C53F293643F/Text/@EntryValue">[Xunit.FactAttribute]&#xD;
-public void $SutMethodName$_Default_OK()&#xD;
+public void $SutMethodName$_$Arrange$_OK()&#xD;
 {&#xD;
 	var input = $Input$;&#xD;
     var expected = $Expected$;&#xD;
@@ -151,7 +161,7 @@ public void $SutMethodName$_Default_OK()&#xD;
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0A74958E474BB54FB6F3838D7544DBF5/Shortcut/@EntryValue">lxll</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0A74958E474BB54FB6F3838D7544DBF5/Description/@EntryValue">Leetcode xUnit linked list tests</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0A74958E474BB54FB6F3838D7544DBF5/Text/@EntryValue">[Xunit.Fact]&#xD;
-public void $SutMethodName$_Default_OK()&#xD;
+public void $SutMethodName$_$Arrange$_OK()&#xD;
 {&#xD;
     var input = Leetx.Tools.LinkedLists.LinkedListBuilder.Create(new int[] { $DefaultElements$ });&#xD;
     var expected = $DefaultExpected$;&#xD;
@@ -177,7 +187,7 @@ public void $SutMethodName$_Default_OK()&#xD;
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Description/@EntryValue">Leetcode xUnit [Theory] test method</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=32A8BC960DD7C04B931D55314158132E/Text/@EntryValue">[Xunit.Theory]&#xD;
 [Xunit.InlineData($Input$, $Expected$)]&#xD;
-public void $SutMethodName$_Default_OK($InputType$ input, $ExpectedType$ expected)&#xD;
+public void $SutMethodName$_$Arrange$_OK($InputType$ input, $ExpectedType$ expected)&#xD;
 {&#xD;
     var actual = _sut.$SutMethodName$(input);&#xD;
     Assert.Equal(expected, actual);&#xD;
